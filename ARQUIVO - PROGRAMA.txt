@@ -2,3 +2,5 @@ Commit
 Ramificando
 Enviando galho
 mergiando e testando comflitos
+Nao vejo conflito
+Nao vejo mas testando conflito
