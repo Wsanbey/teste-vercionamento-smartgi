@@ -1,3 +1,4 @@
 Commit
 Ramificando
 Enviando galho
+mergiando e testando comflitos
